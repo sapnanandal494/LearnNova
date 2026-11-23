@@ -12,6 +12,9 @@ frontend/.env.local
 frontend/.env.production
 *.env.local
 
+# Deployment config — keep local only
+render.yaml
+
 # Logs
 *.log
 npm-debug.log*
