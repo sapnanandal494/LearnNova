@@ -15,6 +15,9 @@ frontend/.env.production
 # Deployment config — keep local only
 render.yaml
 
+# Original Stitch design files — not part of app
+stitch_learnnova_student_dashboard_ui/
+
 # Logs
 *.log
 npm-debug.log*
